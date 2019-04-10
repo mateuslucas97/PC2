@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Turma()
+comment1.params=c\ ca
+comment1.target=Turma(int,\ int)
+comment2.params=c
+comment2.target=void\ setCodigo(int)
+comment3.target=int\ getCodigo()
+comment4.params=ca
+comment4.target=void\ setCapacidade(int)
+comment5.target=int\ getCapacidade()
+comment6.params=a
+comment6.target=void\ setAlunos(Aluno[])
+comment7.target=Aluno[]\ getAlunos()
+comment8.params=a
+comment8.target=void\ adicionarAlunos(Aluno)
+numComments=9
